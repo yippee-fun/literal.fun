@@ -15,6 +15,7 @@ export default defineConfig({
 		nav: [
 			{ text: "Home", link: "/" },
 			{ text: "Docs", link: "/docs/" },
+            { text: "Support", link: "https://www.rubyforum.org/tag/literal/84" },
 		],
 
 		sidebar: [
